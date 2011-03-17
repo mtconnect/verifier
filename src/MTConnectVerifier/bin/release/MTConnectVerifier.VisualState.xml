@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release\MTConnectVerifier.nunit</TopNode>
+  <SelectedNode>[0-1000]C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release\MTConnectVerifier.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release\MTConnectVerifier.nunit" Expanded="true" />
+    <Node UniqueName="[0-1058]C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release\MTConnectVerifier.exe" Expanded="true" />
+    <Node UniqueName="[0-1059]MTConnectVerifier" Expanded="true" />
+    <Node UniqueName="[0-1001]MTConnectVerifier.S1_MTConnectAgent_HTTP" Expanded="true" />
+    <Node UniqueName="[0-1006]MTConnectVerifier.S2_MTConnectAgent_Protocal" Expanded="true" />
+    <Node UniqueName="[0-1022]MTConnectVerifier.S3_MTConnectAgent_XML" Expanded="true" />
+    <Node UniqueName="[0-1025]MTConnectVerifier.S4_MTConnectAgent_Probe_Request" Expanded="true" />
+    <Node UniqueName="[0-1030]MTConnectVerifier.S5_MTConnectAgent_Current_Request" Expanded="true" />
+    <Node UniqueName="[0-1037]MTConnectVerifier.S6_MTConnectAgent_Sample_Request" Expanded="true" />
+    <Node UniqueName="[0-1049]MTConnectVerifier.S7_MTConnectAgent_Error" Expanded="true" />
+    <Node UniqueName="[0-1054]MTConnectVerifier.S8_MTConnectAgent_Devices" Expanded="true" />
+  </Nodes>
+</VisualState>

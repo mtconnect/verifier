@@ -1,0 +1,28 @@
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\bin\release\MTConnectVerifier.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\bin\release\MTConnectVerifier.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.framework.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.mocks.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.framework.xml
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\obj\Debug\MTConnectVerifier.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\MTConnectVerifier\obj\Debug\MTConnectVerifier.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\obj\Debug\MTConnectVerifier.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\obj\Debug\MTConnectVerifier.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\MTConnectVerifier.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\MTConnectVerifier.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.framework.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.mocks.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.0.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.framework.xml
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\obj\Debug\MTConnectVerifier.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\obj\Debug\MTConnectVerifier.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\MTConnectVerifier.exe
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\MTConnectVerifier.pdb
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.framework.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.mocks.dll
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\bin\release\nunit.framework.xml
+C:\Documents and Settings\lyang39\My Documents\Visual Studio 2008\Pprojects_Lei\MTConnectVerifier\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\MTConnectVerifier\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\lyang39\Desktop\MTConnect-Verifier-v1.1.0\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\obj\Debug\MTConnectVerifier.exe
+C:\Documents and Settings\lyang39\Desktop\MTConnect-Verifier-v1.1.0\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\obj\Debug\MTConnectVerifier.pdb
+C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\obj\Debug\MTConnectVerifier.exe
+C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\obj\Debug\MTConnectVerifier.pdb

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release\MTConnectVerifier.nunit" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-03-10" time="21:27:54">
+  <environment nunit-version="2.5.7.10213" clr-version="2.0.50727.3615" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release" machine-name="FIS-MULBERRY" user="lyang39" user-domain="AD" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Project" name="C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release\MTConnectVerifier.nunit" executed="True" result="Success" success="True" time="0.938" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\MTConnect-Verifier-v1.1.0\src\MTConnectVerifier\bin\release\MTConnectVerifier.exe" executed="True" result="Success" success="True" time="0.938" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="MTConnectVerifier" executed="True" result="Success" success="True" time="0.938" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="S4_MTConnectAgent_Probe_Request" description="MTConnectAgent_Probe_Request" executed="True" result="Success" success="True" time="0.938" asserts="0">
+                <results>
+                  <test-case name="MTConnectVerifier.S4_MTConnectAgent_Probe_Request.T003_Agent_Represents_At_Least_One_Device" description="Agent MUST represent at least one device" executed="True" result="Success" success="True" time="0.938" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
