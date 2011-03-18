@@ -1,1 +1,1 @@
-This is MTConnectVerifier version 1.1.1.
+This is MTConnectVerifier version 1.1.1. Read documentation file in the directory doc.
